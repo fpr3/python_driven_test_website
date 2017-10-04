@@ -7,3 +7,5 @@ The RasPi was already running Raspbian (Jessie) before consideration was given t
 The basic app was implemented as described in [Create a Basic Python Web Server with Flask](https://www.raspberrypi-spy.co.uk/2017/07/create-a-basic-python-web-server-with-flask/). This yields a rudimentary set of pages where a couple of routes demonstrate the use of templates and another couple show how information can be embedded in the URL string itself.
 
 Next, ... boostrap, font-awesome, and jquery.countdown
+
+The next rendition of this became demosite with the flask development moved onto nginx with uwsgi.
